@@ -1,0 +1,11 @@
+{
+  "artboards": [
+    { "file": "Main.dc.html", "x": 0, "y": 0, "w": 390, "h": 844, "title": "Weekend Weather" },
+    { "file": "PosterSplit.dc.html", "x": 520, "y": 0, "w": 390, "h": 844, "title": "Alt A · Poster split (low-fi)" },
+    { "file": "NightUtility.dc.html", "x": 1040, "y": 0, "w": 390, "h": 844, "title": "Alt B · Night utility (low-fi)" }
+  ],
+  "annotations": [
+    { "id": "directions-note", "x": 520, "y": -140, "w": 340, "text": "Main (left) is the built direction: warm, illustrated, playful.\nThe two boards here are rough alternates - A is a bold poster split, B is a dark data-first take. Say the word and I'll build either out instead." }
+  ],
+  "launch": { "view": "canvas" }
+}
